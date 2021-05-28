@@ -1,0 +1,33 @@
+Pfizer-BioNTech vaccine offers strong protection against key variants of concern, real-world data from Qatar shows
+
+The Pfizer-BioNTech coronavirus vaccine provides strong protection against two concerning variants of the virus, including the one that has most worried scientists because it can evade parts of the immune response, according to new data from Qatar.
+
+The study, published as a letter in the New England Journal of Medicine, found that the Pfizer-BioNTech vaccine was about 90 percent effective at blocking infections caused by the B.1.1.7 variant, a more transmissible version of the virus now fueling outbreaks around the world. That encouraging finding was not a surprise, but the study also found that efficacy eroded only slightly, to 75 percent, against the B.1.351 variant that was first detected in South Africa.
+
+The B.1.351 variant carries mutations that help it elude some antibodies and as a result is considered by many experts the most challenging variant among those that have been identified. Because the Pfizer-BioNTech vaccine and one from the biotechnology company Moderna were tested in clinical trials before that variant emerged, it had remained unclear until now whether protection would be eroded by the variant. While the new study suggests the vaccine is somewhat less protective against the variant, it offered strong protection, particularly against severe, critical or fatal cases of covid-19, the illness caused by the virus.
+
+On Wednesday, Moderna announced results of tests of two booster shot options: one, a third shot of the original vaccine, and the other a third shot tailored against the B.1.351 variant.
+
+In a small study of 40 participants, the company found that six to eight months after vaccination, antibodies to the original strain of the virus remained high, but protection against B.1.351 and another variant, P.1, had dropped in half of the participants.
+
+Boosters of the original shot were effective at topping off immunity, and the B.1.351-specific booster was more effective at boosting antibodies that block that variant. The company is also testing a combination booster shot that contains the original vaccine and the one tailored to the variant.
+
+The shot developed by AstraZeneca and the University of Oxford did not work against the B.1.351 variant in a small study, and South Africa decided not to use the vaccine.
+
+But so far, that appears to be an outlier. The coronavirus vaccine developed by Johnson & Johnson was 72 percent effective in the United States, dropping to 64 percent in South Africa, where the B.1.351 variant dominated. An experimental vaccine developed by the Maryland biotech company Novavax was 89 percent effective in Britain, where the B.1.1.7 variant became dominant, but 49 percent in South Africa, where B.1.351 accounted for most cases. When excluding HIV-positive people, the Novavax vaccine was 60 percent effective in the South Africa study.
+
+“We should expect a degree of reduction in protection against B.1.351, but not to the extent we should be freaking out about it,” said John P. Moore, a professor of microbiology and immunology at Weill Cornell Medicine who was not involved in the study.
+
+The Qatar study was not a randomized trial, regarded as the gold standard for medical evidence, but instead used real-world data from a mass vaccination program that began in late December. By the end of March, more than 385,000 people had received at least one dose of vaccine, and the country’s new cases of infection were split almost evenly between the two variants.
+
+Several experts said that although such studies have limitations, the findings were fascinating and important — and also underscored the necessity of getting both doses of the two-shot Pfizer-BioNTech or Moderna vaccine.
+
+People receiving only one shot of the vaccine against B.1.1.7 were provided protection of only 30 percent, and it fell to 17 percent against B.1.351.
+
+“It really strongly emphasizes, with the variants, that need for the second dose,” said Kathleen Neuzil, director of the Center for Vaccine Development at the University of Maryland School of Medicine. “Which is a message we’ve been delivering, but now we have human clinical data to support that message.”
+
+For months, laboratory scientists have taken blood serum samples from people who were vaccinated and checked how well their antibodies block virus variants from entering cells. They have consistently found the largest drop-off in protection connected with the B.1.351 variant first detected in South Africa.
+
+What has remained unclear is what the drop-off in a laboratory dish translates into in terms of whether people get sick. While many scientists speculated it might result in a modest decline in efficacy, mostly against milder infections, the new data is some of the first to directly support the idea.
+
+In a news release last month, Pfizer and BioNTech provided the first hint that their vaccine provided protection against the variant, although the number of cases was small, and not enough details were given to draw conclusions. The companies said that among 800 participants in their clinical trial in South Africa, nine cases of illness were reported, all in the placebo group. Six of those cases were related to B.1.351, suggesting that the vaccines were protecting against the variant.

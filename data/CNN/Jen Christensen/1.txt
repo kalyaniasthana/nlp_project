@@ -1,0 +1,40 @@
+First human trial of potential antibody treatment for Covid-19 begins
+
+Eli Lilly and Company said Monday it has started the first human trial of an antibody therapy designed to treat Covid-19.
+
+The first phase of the trial will test whether the therapy is safe and well-tolerated; those results are expected in late June. The first Covid-19 patients being treated with the therapy are hospitalized at New York University's Grossman School of Medicine in New York, Cedars-Sinai in Los Angeles and Emory University in Atlanta, the company told CNN.
+If the trial ultimately shows the treatment is effective against Covid-19, it could be available by autumn, according to the Indianapolis-based company.
+"Until now, scientists have been trying to repurpose medicines, drugs, that were designed for new diseases to see if they work in Covid-19, but as soon as this epidemic started, we got to work making a new medicine against this disease," said Dr. Dan Skovronsky, Eli Lilly's senior vice president and chief scientific officer.
+"Now we're ready and testing it in patients."
+
+The treatment was created in collaboration with AbCellera, a biotechnology company based in Canada. When someone recovers from a disease like Covid-19, their body produces millions of proteins called antibodies, which fight off the disease and help them recover. AbCellera acquired a blood sample from one of the first US patients who had recovered from Covid-19, and the companies sorted through millions of this patient's cells to find hundreds of antibodies.
+
+Scientists at AbCellera and the Vaccine Research Center at the National Institute of Allergy and Infectious Diseases selected those they thought would be most potent and Lilly scientists engineered the treatment, known as a monoclonal antibody therapy. This approach has worked to treat other illnesses; there are monoclonal antibody therapies that treat HIV, asthma, lupus, Ebola and some forms of cancer.
+
+It's not clear if such a therapy will work against Covid-19, but when this treatment was used on on cells in the lab, it blocked the ability of the virus to infect the cells, Skovronsky said. The data is not yet published, but based on those results, scientists got the green light to take the next step and prepare it to be tried in patients.
+They also gave it a temporary name.
+"We call it LY-CoV555, lucky triple 5," Skovronsky said.
+
+Manufacturing has already begun
+This will be a randomized, placebo-controlled, double-blind Phase I trial. Some patients will be receive the medicine and some will receive a placebo, and patients or their doctors won't be informed who received it and who didn't.
+If the treatment appears to be safe, the company would move to the next phase of testing in a matter of weeks. The second phase of the trial will involve a larger number of patients, including patients who are not hospitalized, and will test whether the therapy is effective.
+The company also plans to study the drug as prevention. The treatment could be used for vulnerable patient populations for whom vaccines might not be a great option, such as the elderly or people who have chronic disease or compromised immune systems.
+
+Eli Lilly has already begun manufacturing the antibody therapy in large quantities so it could be tested and potentially for use in patients beyond the trial. Under non-pandemic circumstances, the companies would usually wait to find out if it worked first before it started making it.
+"If it does work, we don't want to waste a single day, we want to have as much medicine as possible available to help as many people quickly," Skovronsky said.
+In trials over the next several months, Lilly says it will test different mixtures of a few of the other antibodies scientists think might provide protection. The optimal scenario, though, Skovronsky said, is if they only need one antibody at a relatively low dose.
+"The more antibodies are mixed together, higher doses, the more difficult it is to manufacture," Skovronsky said. "But if it has to be two antibodies, higher doses, or even three antibodies mixed together at higher doses, we'll do whatever it takes to make effective medicine for patients."
+
+Other antibody therapies in development
+Eli Lilly isn't the only company working on antibody treatments. Several US teams have cloned antibodies to Covid-19 and many are close to testing in patients. Regeneron Pharmaceuticals has said it hopes to start human trials this month and to have a treatment by the end of the summer.
+
+"This approach definitely has promise and it is something we need," said Dr. Peter Hotez, a vaccine specialist at Baylor College of Medicine who is not involved in this research. He said the challenge with Covid-19 is that there are two phases to the disease -- the initial viral infection phase and then the host response, or the inflammatory response. Generally, a treatment like this is more likely to be effective if a patient gets it early in the course of the illness, when the virus is still replicating.
+"That's always the problem with treating Covid-19 with monoclonal antibodies -- if you wait until things are pretty far along, like including patients that are already on the ventilator, it may not have any clinical impact," Hotez said.
+If it works though, it could also be useful if, for example, a patient in a nursing home tested positive for Covid-19, and such a treatment could be given to others at the facility; for a first responder that had just been exposed to a patient with Covid-19; or for health care workers, Hotez said.
+
+One challenge Hotez noted: Monoclonal antibody therapies tend to be "pretty expensive," he said.
+Typically, such treatments would take many years to develop, but Covid-19 treatments are on an accelerated schedule. Pharmaceutical companies have said that government approvals that normally take weeks have sometimes come within a day.
+"It's really been a privilege to be able to operate in this kind of environment," Lilly's Skovronksy said. He said he and others in the pharmaceutical industry have wondered if the same collaboration and urgency could be applied to treatments for other diseases like cancer or Alzheimer's.
+
+"For many of us, this feels a little like a moonshot or a Manhattan Project, where so many scientists are working together at breakneck speeds," Skovronksy said. "Surely there will be other advances that come of this."
+

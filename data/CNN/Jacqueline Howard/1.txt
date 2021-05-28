@@ -1,0 +1,27 @@
+CDC projects 'sharp decline' in Covid-19 cases by July, but calls variants a 'wild card'
+
+The United States could see a drop in Covid-19 cases and deaths by July if vaccinations remain high and people adhere to certain prevention measures, a new modeling study suggests.
+
+But if fewer people follow Covid-19 precautions -- such as wearing masks and physical distancing -- it could undermine the gains from vaccinations to slow the spread of the coronavirus in the United States, according to the study.
+
+
+The study, published on Wednesday by the US Centers for Disease Control and Prevention, projects that with high immunization coverage and a moderate adherence to prevention measures, Covid-19 hospitalizations and deaths will likely remain low nationally and sharply decline by July.
+But accelerating declines in adherence to prevention measures in combination with increased transmissibility of new variants "could lead to surges in cases, hospitalizations, and deaths" -- even with improved vaccination coverage, researchers from the CDC and various US institutions wrote in the report.
+"High vaccination rates and compliance with public health prevention measures are essential to control the COVID-19 pandemic and to prevent surges in hospitalizations and deaths in the coming months," they wrote.
+"Nationally, reported cases, hospitalizations, and deaths are now decreasing or stable," the researchers added. "However, transmission remains widespread and increased cases, hospitalizations, and deaths continue to be reported in some jurisdictions and, as this study indicates, the potential for future increases persists."
+
+The study makes clear that the sooner the US gets more people vaccinated, the sooner the nation could return to normal -- but coronavirus variants are a "wild card," CDC Director Dr. Rochelle Walensky said during a White House briefing Wednesday.
+"The models projected a sharp decline in cases by July 2021 and even faster decline if more people get vaccinated sooner," Walensky said, calling the study finding good news.
+"We need to keep vaccinating people, but we all need to keep practicing certain prevention interventions to help us get to the predicted good outcomes," Walensky said. "Although we are seeing progress in terms of decreased cases, hospitalizations and deaths, variants are a wild card that could reverse this progress that we have made and could set us back."
+For the study, six modeling research teams estimated what the future of the pandemic could look like in the United States from April to September of this year. The teams each developed a model to project weekly reported Covid-19 cases, hospitalizations and deaths using data from Johns Hopkins University and federal databases.
+The models included four scenarios where there were: rates of high vaccination with moderate adherence to prevention measures; high vaccination with low adherence to measures; low vaccination with moderate adherence to measures and low vaccination with high adherence to measures.
+
+All scenarios also included the spread of the B.1.1.7 coronavirus variant, which was first identified in the United Kingdom. In the models, the researchers assumed the variant is 50% more transmissible than previously circulating variants.
+The emergence of new variants has been linked with resurgences in cases, hospitalizations and deaths in Europe, South Africa, Brazil and India.
+"In the United States, B.1.1.7 and other variants of domestic and international origin were projected to drive continued increases in case counts in the coming months and could negate recent gains in controlling SARS-CoV-2 transmission," the researchers wrote.
+The researchers found that all four scenarios project an increase in Covid-19 cases at the national level through April, peaking in May and then declining by July. But the models showed that if people just moderately follow prevention measures it could reduce cases and deaths in both high- and low-vaccination scenarios, compared with a low adherence to measures.
+The findings provide only estimates of the future and are limited to six models.
+
+
+"All contributing models attributed increased SARS-CoV-2 transmission in many parts of the United States to the relaxation of mitigation strategies and the increasing prevalence of more transmissible variants, although the relative contribution of each factor varied among models," the researchers wrote. SARS-CoV-2 is the name of the virus that causes Covid-19.
+"The models give us an important reminder. They project that local conditions and emerging variants are putting many states at risk for increases in Covid-19 cases, especially if we do not increase the rate of vaccinations and if we do not keep our current mitigation strategies in place until we have a critical mass of people vaccinated," Walensky said.

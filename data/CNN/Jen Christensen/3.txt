@@ -1,0 +1,64 @@
+They prepared for years for a pandemic. Now the pressure is on to create a therapy that could help control it
+
+Kristin Pascal jokes with friends at Zoom game night that she's spent the Covid-19 pandemic moving clear liquids around the office.
+
+In reality, the Tarrytown, New York, scientist is doing something much bigger. She's helping to create a key ingredient that could help control the pandemic.
+
+Pascal works in the infectious disease research and development lab at Regeneron Pharmaceuticals. The biotech company has successfully created several FDA-approved medicines that fight eye problems, rheumatoid arthritis, cancer, and cardiovascular disease.
+These days, the company is one of many racing to create a therapy for Covid-19. Regeneron is planning to begin testing it humans this month, and hopes it will be ready by fall.
+The company's scientists have been training for a pandemic like this for decades.
+"Most scientist have said for years there's potential for pandemics like this novel coronavirus to emerge," Pascal said. "So we thought, let's be prepared."
+To prepare, Pascal and her team ran speed challenges to see exactly how fast they could create a treatment for an emerging threat. They did it for MERS. They did it for Ebola. They hope all that practice will pay off against Covid-19.
+
+The treatment they're creating is what's known as an antibody cocktail. It's possible it could be used to treat people who are already sick, or it might prevent them from becoming ill.
+It's not a vaccine. It doesn't provide permanent protection. But this kind of passive immunization works right away, while a vaccine can take a few weeks to kick in.
+Antibody therapies could also be ready much quicker than a vaccine.
+
+How antibody therapies work
+Antibodies are the proteins the body naturally makes to fight infection.
+Since the Victorian era, scientists have harnessed this natural protection for treatments. In 1901, Emil von Behring won the first Nobel Prize for medicine demonstrating he could use antibodies, or antitoxins as he called them, to protect animals from diphtheria, a dangerous bacteria.
+During the 1918 flu pandemic, doctors proved convalescent plasma -- antibody-filled plasma from a patient who recovered from the disease -- could fight flu. Convalescent plasma has been used to treat severe flu, MERS and SARS and now some US doctors are starting to see some success treating Covid-19 too.
+
+But since there isn't enough donated plasma to treat all patients, modern medicine can fill in the gaps and maybe even improve the process. Scientists can create what's called monoclonal antibodies, which are lab-made antibodies that don't rely on donor plasma and are created specifically to target an infection.
+Dr. Anthony Fauci, the director of the National Institute of Allergy and Infectious Diseases, said last week that monocolonal antibodies and convalescent plasma treatments are a "very, very high priority" to end this pandemic.
+They've worked before. For Ebola, Regeneron set a company record, creating an antibody treatment ready to go into manufacturer in less than six months.
+For Covid-19, Regeneron wants to have its treatment to patients in five.
+"I function fairly well under pressure, and this has definitely been a lot of pressure," Pascal said. "And, like, growing amounts of pressure."
+They work nights and weekends, trying to get the formula right, to make sure it is safe, and rushing to keep pace with at least one other team that's already testing an antibody therapy in humans.
+
+Eli Lilly and AbCellera started testing their antibody treatment in humans June 1. Regeneron hopes to get its therapy into clinical trials by the second week of June. A handful of other companies are in various stages of testing antibody therapies, too.
+Pascal's job is to lay the scientific groundwork that determines which ingredients should go into Covid-19 antibody cocktail. It's her data goes into the lab notebooks the US Food and Drug Administration will use to determine if the treatment should be approved.
+
+Pascal's team started the process with the DNA of the novel coronavirus. The closest she actually comes to working with the virus itself is when she's at her desk, where there is a 3D model that someone printed for her.
+In the lab, she creates what is called a pseudovirus. It has the same spike proteins on the outside as the novel coronavirus, but it's less dangerous, since it can't reproduce itself. The spike proteins on the pseudovirus can penetrate and infect healthy cells like the novel coronavirus can.
+"It mimics the current virus infection, but it isn't actually, so then we can test our antibodies against that and show that we can block infection," Pascal said.
+
+
+Some companies use cows or llamas to make their antibodies, others don't use any animal host at all. Regeneron uses mice that make human antibodies.
+The team injects the mouse with parts of the pathogen, which prompts the animal to make the human antibodies that have slight variations. Some block the virus better than others. Once there are enough antibodies, the scientists start testing to see which best block that spike protein from invading healthy cells.
+Scientists isolate the ones that work best and hand them over to the manufacturing wing of the company.
+Making the antibody treatment
+That's where Chris Cowan and his team comes in. He's an engineer tasked with growing and cleaning Pascal's small vial of cells. The antibody treatment grows in big stainless tanks.
+"And it looks a bit like a New England IPA," Cowan said.
+Once there's enough, he filters contaminants out of the cocktail.
+"At every step it starts to get a little bit more pure," Cowan said. Eventually, it gets to a concentration that's amenable for a human.
+
+Cowan said this is the fastest the process has ever worked, and they've done it all with pandemic precautions.
+Teams work in rotation to reduce the number of people in the building. Masks are mandatory, as is weekly Covid-19 testing.
+"Not the serologic testing, but the actual, you know, the plunger to the back of the nose," Cowan said. "We call it the 'brain tickle.' "
+Cowan said it's worth the trouble.
+"There's really something special about working for your friends and family and neighbors on something that is going to directly help them," Cowan said.
+Next, Regeneron's antibody therapy will be packaged and sent to hospitals around the country where it will be tested in humans.
+The first part of the trial will determine if it is safe. Scientists will also want to see if it works.
+'We all wish we could go faster'
+One question Regeneron won't know the answer to -- at least, not until the human tests start -- is how the treatment will be effective.
+Does it work to treat symptoms? Or can it work to protect the most vulnerable -- the elderly in nursing homes, people with underlying health conditions, health care workers, people who have been exposed to Covid-19?
+"These are the things we're going to find out in our clinical trials," said Leah Lipsich, vice president of strategic program direction at the company. She's optimistic it can work. Regeneron tried a similar approach with Ebola.
+In 2014, during the deadliest Ebola outbreak in history, the company had a therapy ready in months, but the worst of the outbreak was over and they put it on the shelf. Three years later, when another outbreak struck in the Democratic Republic of Congo, they were ready. It shipped the drug to be a part of a trial.
+It worked so well, its clinical trial was stopped early in August 2019. Data showed it did better at saving lives than some of the other therapies being tested. The FDA accepted REGN-EB3 for priority review in April. The agency is expected to make a decision about whether to OK the Ebola therapy by October.
+
+"I will tell you when the data came out on that Sunday showing it worked, I went into the office that Monday and I went into the executive suite and I did a victory lap, high fiving every executive I could find," Lipsich said.
+If the Covid-19 antibody cocktail becomes a therapy this year, it would be the fastest the company has ever created a treatment, Lipsich said.
+She's hopeful it will work, and hopeful its lessons will prepare them to move quickly during the next epidemic -- whatever comes after Covid-19, "because I believe there will be a next one," Lipsich said.
+"I think," she said, "we all wish we could go faster."
+

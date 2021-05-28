@@ -1,0 +1,29 @@
+Mixing Covid-19 vaccines tied to more side effects, early UK data suggests
+
+People who got mixed doses of coronavirus vaccines -- receiving a different vaccine type as a second dose than the first dose -- appear to be more likely to experience mild side effects such as fever, chills, fatigue or headache, researchers in the UK reported Wednesday.
+
+But the side effects following mix-and-match vaccinations were short-lived and there were no other safety concerns, the researchers reported in the Lancet medical journal.
+
+"These are the type of reactions you do expect with vaccine," Dr. Matthew Snape, an associate professor of pediatrics and vaccinology at the University of Oxford and chief investigator on the trial, said during a media briefing.
+"They are more or less the same types of reactions that you're seeing with the standard schedules. It's just that they're occurring more frequently, and we're seeing both more frequent both in mild and moderate symptoms -- but they resolved quickly," Snape said.
+Overall, "it's a really intriguing finding," he said, "and it's not something necessarily we were expecting -- to see such a consistent signal."
+It's something to keep an eye out for when giving mixed doses, the researchers said.
+"One of the things it's telling us is that, for example, you wouldn't want to immunize a ward full of nurses on the same day with a mixed schedule," Snape said. "Because you may have higher rates of absenteeism in the next day."
+The mix-and-match trial
+The new research included 830 volunteers 50 and older who were randomly assigned to four different vaccine schedules involving the Oxford/AstraZeneca and Pfizer/BioNTech vaccines, with first and second doses given 28 days apart.
+They either got the AstraZeneca vaccine as both doses; AstraZeneca as a first dose and Pfizer as a second dose; the Pfizer vaccine as both doses; or the Pfizer vaccine as a first dose and AstraZeneca as a second dose.
+
+The researchers found that people who got different vaccines had more side effects following the second dose, with feverishness reported by 34% of those who received the AstraZeneca vaccine first and Pfizer vaccine second, compared with 10% of those given the AstraZeneca vaccine for both doses.
+Fever was reported by 41% of the people who received the Pfizer vaccine first and AstraZeneca vaccine second, compared with 21% of the volunteers given the Pfizer vaccine for both doses.
+"Similar increases were observed for chills, fatigue, headache, joint pain, malaise, and muscle ache," the researchers wrote. They noted that people could take acetaminophen -- sold under brand names such as Tylenol -- to ease the side-effects.
+There were no hospitalizations due to the symptoms and most of the increased reactions were seen within 48 hours after immunization, the researchers found. They noted that they did not see evidence of a rare blood clotting syndrome that's been linked with the AstraZeneca and Johnson & Johnson vaccines in any of the volunteers within a week after the second dose.
+
+The researchers also noted that their findings are based on initial data and there are now ongoing studies testing mixed administration of vaccines made by Moderna and Novavax.
+More research is also needed to evaluate immune responses following different types of schedules, and whether increased side effects suggest that schedules using different types of vaccines elicit strong immune responses.
+"We do think reactions often relate to the stimulating of the innate immune response," Snape said. "Whether or not this will relate to actually an improved immune response we don't know yet. We'll be finding out those results in a few weeks time."
+Seeking 'greater insight'
+The US Centers for Disease Control and Prevention and the World Health Organization do not currently recommend interchanging coronavirus vaccines -- but the CDC noted in January that its guidance may be updated as new information and new types of vaccines become available.
+
+There may be advantages to having more flexible vaccine schedules using different vaccine types as first and second doses, Dr. Jonathan Van-Tam, England's deputy chief medical officer, said in a statement in February when the new research first began.
+"Given the inevitable challenges of immunizing large numbers of the population against COVID-19 and potential global supply constraints, there are definite advantages to having data that could support a more flexible immunization program, if needed and if approved by the medicines regulator," Van-Tam said at the time.
+"It is also even possible that by combining vaccines, the immune response could be enhanced giving even higher antibody levels that last longer; unless this is evaluated in a clinical trial we just won't know," he said. "This study will give us greater insight into how we can use vaccines to stay on top of this nasty disease."

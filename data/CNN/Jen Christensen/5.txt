@@ -1,0 +1,39 @@
+US launches advanced trials of antibody treatment for Covid-19 patients
+
+Two new trials soon will be underway in the United States to investigate antibody treatment approaches for Covid-19 patients.
+
+The National Institutes of Health announced on Tuesday that it is launching two advanced trials to test monoclonal antibodies in patients with Covid-19, one for patients with mild disease and another for patients who are hospitalized.
+Monoclonal antibodies are immune system proteins that specifically home in on a single target. In coronavirus, they are targeted to a single structure on the body of the virus. The hope is to slow or even prevent infection.
+"Studying the impact of this investigational therapeutic on multiple patient populations at the same time is critical to determining whether it can help Covid-19 patients with differing levels of disease severity," Dr. Anthony Fauci, the nation's top infectious disease expert and director of the National Institute of Allergy and Infectious Diseases Director, said in the announcement.
+"These concurrent trials have the potential to yield significant and comprehensive clinical data," he said.
+NIH starts antibody treatment clinical trials
+In April, NIH announced the formation of the program Accelerating COVID-19 Therapeutic Interventions in Vaccine or ACTIV.
+
+Since then, the program has "evaluated hundreds" of therapeutic agents with potential application to Covid-19, NIH Director Dr. Francis Collins said on Tuesday. The two newly launched advanced trials are part of that ACTIV program.
+
+"Today we are announcing the first therapeutic trial to be launched as part of ACTIV. ACTIV 2 is a Phase 2 trial of the Eli Lilly monoclonal antibody that can expand seamlessly to Phase 3," Collins said during a phone call with reporters on Tuesday.
+That Phase 2 trial will include people with mild disease who are not hospitalized for coronavirus treatment, Collins said.
+Fauci added that the "fundamental strategy" for a monoclonal antibody "is to interfere with the virus's ability to infect," and the goal of the trial is to see if the treatment approach "reduces the duration of symptoms."
+The ACTIV 2 Phase 2 trial will be done in eight weeks and researchers should know by October or November if the therapeutic works, Fauci said.
+
+ACTIV also will include a more advanced, Phase 3 trial, Collins said.
+"ACTIV 3 is a Phase 3 trial in hospitalized adults, but also begins with Lilly's monoclonal, but allows for other types of therapeutics as well," he said.
+Specifically, ACTIV 3 will be for patients who require hospitalization but without end stage organ failure, Fauci said. "The primary objective is a sustained recovery for 14 days at home, after hospital discharge," he said.
+Collins said that NIH is "thrilled" about launching the two trials.
+"So keeping them straight: ACTIV 2 -- outpatient, ACTIV 3 -- inpatients," he said. "We're thrilled to reach this point in record time."
+The monoclonal antibody treatment being studied in the two trials is named LY-CoV555. It was made by the pharmaceutical company Eli Lilly and Co. in cooperation with AbCellera from an antibody first identified in a blood sample taken from one of the first US patients to recover from Covid-19.
+The NIH trial of Eli Lilly's antibody treatment is just one of many.
+'We don't have that time'
+In June, Lilly became the first company in the United States to start testing an antibody therapy in humans and now it has several antibody therapy trials that are ongoing.
+"The creation, testing and approval of a novel custom designed monoclonal antibody medicine like this usually takes years, if not a decade. We don't have that time," Lilly chief scientific officer Dr. Dan Skovronsky said.
+
+One trial underway is a Phase 3 trial that is currently recruiting residents and staff in long-term care facilities that have a recent case of Covid-19. That trial launched Monday.
+US trials that Lilly launched in June have been looking at the impact its antibody treatment LY-CoV555 had in hospitalized patients and in people with mild to moderate symptoms.
+Eli Lilly also has a separate trial in China of another antibody treatment it developed with Junshi Biosciences, called JS016. The company said in the future it plans to test other antibodies, and what's known as a cocktail form of antibody treatment, that have shown to neutralize the virus well in the lab.
+Overall, there are at least 60 monoclonal antibody therapies and 12 convalescent plasma treatments for Covid-19 under investigation as of August, according to Bio, an association that represents the biopharma industry.
+Once proven to be safe and effective, how much a monoclonal antibody therapy could cost and how many doses the US government might buy remains to be seen.
+
+While the federal government may be buying up possible coronavirus vaccines ahead of time, buying treatments such as drugs and antibodies is a different matter, Dr. Janet Woodcock, a Food and Drug Administration official who leads therapeutics development for Operation Warp Speed, said during a phone call with reporters on Tuesday.
+"The therapeutic landscape is much wider," Woodcock said, adding there are multiple different modalities of therapy.
+She said that advanced purchasing of therapeutics is going to be slower, because, "out of these vast inventories of potential candidates, we have to select the most promising ones. We can't just buy advanced purchases of 600 different agents."
+With vaccines "it's very clear what you're going to do," she said. "The primary goal is to vaccinate people and protect them... with therapeutics it's a little more complicated."

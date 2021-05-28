@@ -1,0 +1,27 @@
+CDC reports 10K breakthrough COVID-19 cases amid 101M vaccinated people
+
+The figures likely represent a 'substantial undercount,' CDC researchers said
+
+The Centers for Disease Control and Prevention (CDC) reported some 10,200 COVID-19 breakthrough infections in fully vaccinated persons amid a backdrop of about 101 million Americans who completed a vaccination series, as of late April. 
+
+Though the figures are likely a "substantial undercount," plagued by voluntary reporting through a national surveillance system, the CDC says breakthrough infections only occur in a small proportion of vaccinated individuals.
+
+"Even though FDA-authorized vaccines are highly effective, breakthrough cases are expected, especially before population immunity reaches sufficient levels to further decrease transmission," CDC researchers wrote in a study posted Tuesday.
+
+Findings stem from 46 states and territories reporting breakthrough infections as of April 30. The study noted high levels of virus spread during the reporting period, at 355,000 weekly reported COVID-19 cases across the U.S. by the end of April. Of the total 10,262 cases, 63% of infections occurred in women, and the median patient age was 58 years. Early data suggests just over a quarter of cases were asymptomatic, 10% of patients were hospitalized and 160 patients (2%) died.
+
+Of nearly 1,000 hospitalized patients, about 30% were asymptomatic or admitted for a reason unrelated to COVID-19. Patients who died skewed toward older age, with a median patient age of 82. Of 160 deceased patients, 28 were asymptomatic or died due to causes unrelated to COVID-19.
+
+The CDC shifted its approach to monitoring breakthrough infections on May 1, now only assessing cases resulting in hospitalization or death, "thereby focusing on the cases of highest clinical and public health significance," study authors wrote. 
+
+Dr. Rochelle Walensky, director of the CDC, recently defended the agency’s updated approach to monitoring breakthrough infections.
+
+"These vaccines were studied to prevent severe illness, hospitalization and death and as we look at these breakthrough infections those are the ones we’re most concerned about," Walensky said during the briefing, adding that researchers are sequencing the reported cases to see if any variants are behind the infections.
+
+In the study at hand, just 5% of reported cases had available sequencing data, 64% of which were identified as "variants of concern," like variants first identified in the U.K. (56%), and to a lesser degree, strains first detected in California, Brazil and South Africa. 
+
+"The proportion of reported vaccine breakthrough infections attributed to variants of concern has also been similar to the proportion of these variants circulating throughout the United States," CDC researchers wrote.
+
+The study has its limitations, however, including potentially incomplete data due to underreporting and also, likely inadequate testing, especially among those not experiencing symptoms.
+
+"CDC will continue to lead studies in multiple U.S. sites to evaluate vaccine effectiveness and collect information on all COVID-19 vaccine breakthrough infections regardless of clinical status," study authors wrote.
