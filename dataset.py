@@ -13,7 +13,8 @@ class Dataset:
 		self.sources = set()
 		self.texts_by_writer = {}
 		self.length_word_writer_article = {}
-		self.length_word_writer_sentence = {}
+		self.puncts = ('!', "," ,"\'" ,";" ,"\"", ".", "-" ,"?")
+		self.avg_puncts = {}
 
 	def create_dataset(self):
 		for root, dirs, files in os.walk(self.data_path):
@@ -90,7 +91,7 @@ class Dataset:
 		# plt.yticks(y, rotation=45)
 		plt.xticks(rotation=90)
 		plt.plot()
-		plt.savefig('visualizations/avg_article_length_by_word_by_writer.png', bbox_inches='tight')
+		plt.savefig('visualizations/avg_article_length_by_word_by_writer.pdf', bbox_inches='tight')
 
 	# def avg_sentence_length_by_word(self):
 	# 	self.length_word_writer_sentence = {writer: 0 for writer in self.texts_by_writer}
@@ -101,11 +102,34 @@ class Dataset:
 	# 		# self.length_word_writer_sentence[writer] /=len(texts)
 	# 	return self.length_word_writer_sentence
 
-	def count_punctuations_in_article(self):
-		pass
+	def count_punctuations_in_article(self, text):
+		count = 0
+		for i in range(len(text)):
+			if text[i] in self.puncts:
+				# print(text[i])
+				count += 1
+		return count
 
+	def avg_num_punctuations(self):
+		self.avg_puncts = {writer: 0 for writer in self.texts_by_writer}
+		for writer in self.texts_by_writer:
+			texts = self.texts_by_writer[writer]
+			count = 0
+			for text in texts:
+				count += self.count_punctuations_in_article(text)
+			self.avg_puncts[writer] = count/len(texts)
+		return self.avg_puncts
 
-	def avg_num_punctuations(self): pass
+	def plot_avg_num_punctuations(self):
+
+		x = self.avg_puncts.keys()
+		y = [*self.avg_puncts.values()]
+		plt.bar(x, y)
+		# plt.yticks(y, rotation=45)
+		plt.xticks(rotation=90)
+		plt.plot()
+		plt.savefig('visualizations/avg_puncts_by_writer.pdf', bbox_inches='tight')
+
 
 
 	# for testing purposes only
@@ -126,6 +150,8 @@ if __name__ == '__main__':
 	dataset = Dataset('data')
 	dataset.create_dataset()
 	dataset.group_texts_by_writer()
-	print(dataset.avg_article_length_by_word())
-	dataset.plot_avg_article_length_by_word()
-	# print(dataset.avg_sentence_length_by_word())
+	dataset.avg_num_punctuations()
+	dataset.plot_avg_num_punctuations()
+	# print(dataset.avg_article_length_by_word())
+	# dataset.plot_avg_article_length_by_word()
+	# # print(dataset.avg_sentence_length_by_word())
